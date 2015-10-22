@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #00000B;
-	background-color: #DA992E;
+	color: #000000;
+	background-color: #5C3A49;
 }
 
 .html
@@ -23,7 +23,7 @@
 	filter: alpha(opacity=100);
 	padding-left: 8px;
 	padding-right: 346px;
-	padding-bottom: 1074px;
+	padding-bottom: 1574px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -32,7 +32,7 @@
 {
 	z-index: 4;
 	width: 1920px;
-	min-height: 7502px;
+	min-height: 8002px;
 	background-color: #000000;
 	position: fixed;
 	top: 0px;
