@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #00000E;
-	background-color: #2353F9;
+	color: #00000B;
+	background-color: #DA992E;
 }
 
 .html
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 414px;
-	min-height: 5628px;
+	min-height: 6426px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -23,7 +23,7 @@
 	filter: alpha(opacity=100);
 	padding-left: 8px;
 	padding-right: 346px;
-	padding-bottom: 1572px;
+	padding-bottom: 1074px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -32,7 +32,7 @@
 {
 	z-index: 4;
 	width: 1920px;
-	min-height: 8000px;
+	min-height: 7502px;
 	background-color: #000000;
 	position: fixed;
 	top: 0px;
@@ -736,9 +736,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #F7931E;
-	line-height: 14px;
 	text-align: center;
+	line-height: 14px;
+	color: #F7931E;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
 	position: relative;
@@ -767,9 +767,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #F7931E;
-	line-height: 14px;
 	text-align: center;
+	line-height: 14px;
+	color: #F7931E;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
 	position: relative;
@@ -801,9 +801,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #F7931E;
-	line-height: 20px;
 	text-align: center;
+	line-height: 20px;
+	color: #F7931E;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -956,9 +956,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #F7931E;
-	line-height: 14px;
 	text-align: center;
+	line-height: 14px;
+	color: #F7931E;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
 	position: relative;
@@ -987,9 +987,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #F7931E;
-	line-height: 14px;
 	text-align: center;
+	line-height: 14px;
+	color: #F7931E;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
 	position: relative;
@@ -1021,9 +1021,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #F7931E;
-	line-height: 20px;
 	text-align: center;
+	line-height: 20px;
+	color: #F7931E;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -1250,9 +1250,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #F7931E;
-	line-height: 14px;
 	text-align: center;
+	line-height: 14px;
+	color: #F7931E;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
 	position: relative;
@@ -1281,9 +1281,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #F7931E;
-	line-height: 14px;
 	text-align: center;
+	line-height: 14px;
+	color: #F7931E;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
 	position: relative;
@@ -1315,9 +1315,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #F7931E;
-	line-height: 20px;
 	text-align: center;
+	line-height: 20px;
+	color: #F7931E;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -1470,9 +1470,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #F7931E;
-	line-height: 14px;
 	text-align: center;
+	line-height: 14px;
+	color: #F7931E;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
 	position: relative;
@@ -1501,9 +1501,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #F7931E;
-	line-height: 14px;
 	text-align: center;
+	line-height: 14px;
+	color: #F7931E;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
 	position: relative;
@@ -1535,9 +1535,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #F7931E;
-	line-height: 20px;
 	text-align: center;
+	line-height: 20px;
+	color: #F7931E;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -1689,9 +1689,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #F7931E;
-	line-height: 14px;
 	text-align: center;
+	line-height: 14px;
+	color: #F7931E;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
 	position: relative;
@@ -1720,9 +1720,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #F7931E;
-	line-height: 14px;
 	text-align: center;
+	line-height: 14px;
+	color: #F7931E;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
 	position: relative;
@@ -1754,9 +1754,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #F7931E;
-	line-height: 20px;
 	text-align: center;
+	line-height: 20px;
+	color: #F7931E;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -1909,9 +1909,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #F7931E;
-	line-height: 14px;
 	text-align: center;
+	line-height: 14px;
+	color: #F7931E;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
 	position: relative;
@@ -1940,9 +1940,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #F7931E;
-	line-height: 14px;
 	text-align: center;
+	line-height: 14px;
+	color: #F7931E;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
 	position: relative;
@@ -1974,9 +1974,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #F7931E;
-	line-height: 20px;
 	text-align: center;
+	line-height: 20px;
+	color: #F7931E;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -2129,9 +2129,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #F7931E;
-	line-height: 14px;
 	text-align: center;
+	line-height: 14px;
+	color: #F7931E;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
 	position: relative;
@@ -2160,9 +2160,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #F7931E;
-	line-height: 14px;
 	text-align: center;
+	line-height: 14px;
+	color: #F7931E;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
 	position: relative;
@@ -2194,9 +2194,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #F7931E;
-	line-height: 20px;
 	text-align: center;
+	line-height: 20px;
+	color: #F7931E;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -2350,9 +2350,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #F7931E;
-	line-height: 14px;
 	text-align: center;
+	line-height: 14px;
+	color: #F7931E;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
 	position: relative;
@@ -2381,9 +2381,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #F7931E;
-	line-height: 14px;
 	text-align: center;
+	line-height: 14px;
+	color: #F7931E;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
 	position: relative;
@@ -2415,9 +2415,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #F7931E;
-	line-height: 20px;
 	text-align: center;
+	line-height: 20px;
+	color: #F7931E;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -2723,9 +2723,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #F7931E;
-	line-height: 14px;
 	text-align: center;
+	line-height: 14px;
+	color: #F7931E;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
 	position: relative;
@@ -2754,9 +2754,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #F7931E;
-	line-height: 14px;
 	text-align: center;
+	line-height: 14px;
+	color: #F7931E;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
 	position: relative;
@@ -2788,9 +2788,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #F7931E;
-	line-height: 20px;
 	text-align: center;
+	line-height: 20px;
+	color: #F7931E;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -3017,9 +3017,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #F7931E;
-	line-height: 14px;
 	text-align: center;
+	line-height: 14px;
+	color: #F7931E;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
 	position: relative;
@@ -3048,9 +3048,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #F7931E;
-	line-height: 14px;
 	text-align: center;
+	line-height: 14px;
+	color: #F7931E;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
 	position: relative;
@@ -3082,9 +3082,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #F7931E;
-	line-height: 20px;
 	text-align: center;
+	line-height: 20px;
+	color: #F7931E;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -3309,9 +3309,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #F7931E;
-	line-height: 14px;
 	text-align: center;
+	line-height: 14px;
+	color: #F7931E;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
 	position: relative;
@@ -3340,9 +3340,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #F7931E;
-	line-height: 14px;
 	text-align: center;
+	line-height: 14px;
+	color: #F7931E;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
 	position: relative;
@@ -3374,9 +3374,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #F7931E;
-	line-height: 20px;
 	text-align: center;
+	line-height: 20px;
+	color: #F7931E;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -3609,9 +3609,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #F7931E;
-	line-height: 14px;
 	text-align: center;
+	line-height: 14px;
+	color: #F7931E;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
 	position: relative;
@@ -3640,9 +3640,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #F7931E;
-	line-height: 14px;
 	text-align: center;
+	line-height: 14px;
+	color: #F7931E;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
 	position: relative;
@@ -3685,9 +3685,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #F7931E;
-	line-height: 20px;
 	text-align: center;
+	line-height: 20px;
+	color: #F7931E;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -4036,9 +4036,9 @@
 	min-height: 20px;
 	background-color: #3F3F3F;
 	background-color: rgba(0,0,0,0.75);
-	color: #F7931E;
-	line-height: 20px;
 	text-align: center;
+	line-height: 20px;
+	color: #F7931E;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 470px;
 	left: 638px;
@@ -4057,9 +4057,9 @@
 	min-height: 20px;
 	background-color: #3F3F3F;
 	background-color: rgba(0,0,0,0.75);
-	color: #F7931E;
-	line-height: 20px;
 	text-align: center;
+	line-height: 20px;
+	color: #F7931E;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 470px;
 	left: 738px;
@@ -4078,9 +4078,9 @@
 	min-height: 20px;
 	background-color: #3F3F3F;
 	background-color: rgba(0,0,0,0.75);
-	color: #F7931E;
-	line-height: 20px;
 	text-align: center;
+	line-height: 20px;
+	color: #F7931E;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 470px;
 	left: 668px;
@@ -4832,9 +4832,9 @@
 	min-height: 20px;
 	background-color: #3F3F3F;
 	background-color: rgba(0,0,0,0.75);
-	color: #F7931E;
-	line-height: 20px;
 	text-align: center;
+	line-height: 20px;
+	color: #F7931E;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 477px;
 	left: 638px;
@@ -4853,9 +4853,9 @@
 	min-height: 20px;
 	background-color: #3F3F3F;
 	background-color: rgba(0,0,0,0.75);
-	color: #F7931E;
-	line-height: 20px;
 	text-align: center;
+	line-height: 20px;
+	color: #F7931E;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 477px;
 	left: 738px;
@@ -4874,9 +4874,9 @@
 	min-height: 20px;
 	background-color: #3F3F3F;
 	background-color: rgba(0,0,0,0.75);
-	color: #F7931E;
-	line-height: 20px;
 	text-align: center;
+	line-height: 20px;
+	color: #F7931E;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 477px;
 	left: 668px;
