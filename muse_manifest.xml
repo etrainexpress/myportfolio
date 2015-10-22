@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.kamhincheung.com" resolutions="1x" timestamp="1445544575853">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.kamhincheung.com" resolutions="1x" timestamp="1445545130968">
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
-    <file name="index.css" crc="524060967" ref="index"/>
+    <file name="index.css" crc="237196281" ref="index"/>
   </folder>
   <folder name="assets">
     <folder name="full-background-anime-2">
@@ -234,5 +234,5 @@
     <file name="linkedin.png" crc="433040256" seo="true" ref="index"/>
     <file name="u3543-4.png" crc="33997111" ref="index"/>
   </folder>
-  <file name="index.html" crc="41329653" seo="true" mt="1445544556238" redirect="true"/>
+  <file name="index.html" crc="41329653" seo="true" mt="1445544992887" redirect="true"/>
 </manifest>
